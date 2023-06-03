@@ -1,0 +1,42 @@
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\bin\Debug\net6.0\appsettings.json
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\bin\Debug\net6.0\UserManagementApp.staticwebassets.runtime.json
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\bin\Debug\net6.0\UserManagementApp.exe
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\bin\Debug\net6.0\UserManagementApp.deps.json
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\bin\Debug\net6.0\UserManagementApp.runtimeconfig.json
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\bin\Debug\net6.0\UserManagementApp.dll
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\bin\Debug\net6.0\UserManagementApp.pdb
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.csproj.AssemblyReference.cache
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.AssemblyInfoInputs.cache
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.AssemblyInfo.cs
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.RazorAssemblyInfo.cache
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.RazorAssemblyInfo.cs
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\staticwebassets\msbuild.UserManagementApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\staticwebassets\msbuild.build.UserManagementApp.props
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserManagementApp.props
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserManagementApp.props
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\scopedcss\bundle\UserManagementApp.styles.css
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\scopedcss\projectbundle\UserManagementApp.bundle.scp.css
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.dll
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\refint\UserManagementApp.dll
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.pdb
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.genruntimeconfig.cache
+C:\Users\huawe\source\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\ref\UserManagementApp.dll
+D:\Program Files (x86)\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.csproj.AssemblyReference.cache
+D:\Program Files (x86)\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files (x86)\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.AssemblyInfoInputs.cache
+D:\Program Files (x86)\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.AssemblyInfo.cs
+D:\Program Files (x86)\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Program Files (x86)\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.RazorAssemblyInfo.cache
+D:\Program Files (x86)\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.RazorAssemblyInfo.cs
+D:\Program Files (x86)\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.dll
+D:\Program Files (x86)\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\refint\UserManagementApp.dll
+D:\Program Files (x86)\repos\UserManagementApp\UserManagementApp\obj\Debug\net6.0\UserManagementApp.pdb
